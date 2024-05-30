@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Deploy react app on Github</p>
         <div>Hello world </div>
+        <h1>My first App</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
